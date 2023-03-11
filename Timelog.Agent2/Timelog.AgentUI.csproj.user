@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <PublishUrlHistory>D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\published\|D:\OneDrive\Desktop\\CLK-Parser\published\|D:\OneDrive\Desktop\CopyProject\CLK-Parser\published\|D:\OneDrive\Desktop\CopyProject\CLK-Parser-Win7\published\|C:\Users\COGNITIF\Desktop\711BackUp\</PublishUrlHistory>
-    <InstallUrlHistory>https://raw.githubusercontent.com/EI0003J/CLK-Parser/main/published/|https://raw.githubusercontent.com/EI0003J/CLK-Parser-Win7/main/published/|http://raw.githubusercontent.com/EI0003J/CLK-Parser/main/published/</InstallUrlHistory>
+    <PublishUrlHistory>D:\OneDrive\Desktop\Clone\CLK-Parser-Win7\published\|D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\published\|D:\OneDrive\Desktop\\CLK-Parser\published\|D:\OneDrive\Desktop\CopyProject\CLK-Parser\published\|D:\OneDrive\Desktop\CopyProject\CLK-Parser-Win7\published\</PublishUrlHistory>
+    <InstallUrlHistory>https://raw.githubusercontent.com/EI0003J/CLK-Parser-Win7/main/published/|https://raw.githubusercontent.com/EI0003J/CLK-Parser/main/published/|http://raw.githubusercontent.com/EI0003J/CLK-Parser/main/published/</InstallUrlHistory>
     <SupportUrlHistory />
     <UpdateUrlHistory>https://raw.githubusercontent.com/EI0003J/CLK-Parser/main/published/|https://raw.githubusercontent.com/EI0003J/CLK-Parser-Win7/main/published/|http://raw.githubusercontent.com/EI0003J/CLK-Parser/main/published/</UpdateUrlHistory>
     <BootstrapperUrlHistory />

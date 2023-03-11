@@ -8,13 +8,13 @@
     <OutputType>WinExe</OutputType>
     <RootNamespace>System.Agent</RootNamespace>
     <AssemblyName>Empleyado CLK parser</AssemblyName>
-    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
     <IsWebBootstrapper>true</IsWebBootstrapper>
     <TargetFrameworkProfile />
-    <PublishUrl>D:\OneDrive\Desktop\AppDeploymentFolder\CLK-Parser\published\</PublishUrl>
+    <PublishUrl>D:\OneDrive\Desktop\Clone\CLK-Parser-Win7\published\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Web</InstallFrom>
     <UpdateEnabled>true</UpdateEnabled>
@@ -24,11 +24,11 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <InstallUrl>https://raw.githubusercontent.com/EI0003J/CLK-Parser/main/published/</InstallUrl>
-    <UpdateUrl>https://raw.githubusercontent.com/EI0003J/CLK-Parser/main/published/</UpdateUrl>
+    <InstallUrl>https://raw.githubusercontent.com/EI0003J/CLK-Parser-Win7/main/published/</InstallUrl>
+    <UpdateUrl>https://raw.githubusercontent.com/EI0003J/CLK-Parser-Win7/main/published/</UpdateUrl>
     <ProductName>Empleyado CLK parser</ProductName>
     <PublisherName>Empleyado</PublisherName>
-    <ApplicationRevision>24</ApplicationRevision>
+    <ApplicationRevision>25</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <CreateDesktopShortcut>true</CreateDesktopShortcut>
