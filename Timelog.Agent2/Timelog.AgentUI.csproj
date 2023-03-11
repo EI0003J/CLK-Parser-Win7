@@ -28,7 +28,7 @@
     <UpdateUrl>https://raw.githubusercontent.com/EI0003J/CLK-Parser-Win7/main/published/</UpdateUrl>
     <ProductName>Empleyado CLK parser</ProductName>
     <PublisherName>Empleyado</PublisherName>
-    <ApplicationRevision>26</ApplicationRevision>
+    <ApplicationRevision>27</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <CreateDesktopShortcut>true</CreateDesktopShortcut>
@@ -76,8 +76,12 @@
   </PropertyGroup>
   <PropertyGroup />
   <PropertyGroup />
+  <PropertyGroup />
   <PropertyGroup>
-    <NoWin32Manifest>true</NoWin32Manifest>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>Custom</TargetZone>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="AutoUpdater.NET, Version=1.5.7.0, Culture=neutral, PublicKeyToken=501435c91b35f4bc, processorArchitecture=MSIL">
@@ -183,6 +187,7 @@
     </Compile>
     <Compile Include="ViewModels\Log.cs" />
     <Compile Include="ViewModels\ViewRawLogs.cs" />
+    <None Include="Properties\app.manifest" />
     <None Include="Resources\Play.png" />
     <None Include="Resources\Resources.bmp" />
     <None Include="Resources\play1.png" />
