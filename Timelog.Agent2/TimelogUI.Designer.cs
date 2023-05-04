@@ -67,9 +67,9 @@
             this.lblAgentVersion.Location = new System.Drawing.Point(42, 11);
             this.lblAgentVersion.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblAgentVersion.Name = "lblAgentVersion";
-            this.lblAgentVersion.Size = new System.Drawing.Size(210, 16);
+            this.lblAgentVersion.Size = new System.Drawing.Size(147, 16);
             this.lblAgentVersion.TabIndex = 20;
-            this.lblAgentVersion.Text = "Empleyado CLK parser (Vr. Win 7)";
+            this.lblAgentVersion.Text = "Empleyado CLK parser";
             this.lblAgentVersion.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.lblAgentVersion.Click += new System.EventHandler(this.lblAgentVersion_Click);
             // 

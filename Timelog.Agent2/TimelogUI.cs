@@ -99,7 +99,7 @@ namespace Timelog.Agent
         private void AgentUI_Load(object sender, EventArgs e)
         {
             
-            label1.Text = "App Version 1.0.0.9";
+            label1.Text = "App Version 1.0.0.10";
             label3.Text = "";
             Process aProcess = Process.GetCurrentProcess();
             string aProcName = aProcess.ProcessName;

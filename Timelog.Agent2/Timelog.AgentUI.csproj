@@ -28,7 +28,7 @@
     <UpdateUrl>https://raw.githubusercontent.com/EI0003J/CLK-Parser-Win7/main/published/</UpdateUrl>
     <ProductName>Empleyado CLK parser</ProductName>
     <PublisherName>Empleyado</PublisherName>
-    <ApplicationRevision>29</ApplicationRevision>
+    <ApplicationRevision>30</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <CreateDesktopShortcut>true</CreateDesktopShortcut>
